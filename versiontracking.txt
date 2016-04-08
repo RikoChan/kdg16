@@ -42,7 +42,7 @@ Changes in DMVN Style packages
 
 11 Jan 2016, v 1.38
 [+] comm environment for commentaries
-[+] \ubt and \obt commands for \ubderbracket and \overbracket from mathtools
+[+] \ubt and \obt commands for \underbracket and \overbracket from mathtools
 [+] \deq for := symbol from mathtools
 [+] reductions for \varsubsetneq and \varsupsetneq (with var because only half of equation sign needed)
 [-] props and \prpy as unusefull
