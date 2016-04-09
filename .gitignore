@@ -8,8 +8,6 @@
 *.xyc
 
 ## Output
-*.pdf
-!scans/*/*
 *.ps
 *.dvi
 
